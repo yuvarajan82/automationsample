@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="48710" started-at="2020-04-05T17:23:16Z" finished-at="2020-04-05T17:24:05Z">
+  <suite name="Default suite" duration-ms="29858" started-at="2020-04-10T07:22:04Z" finished-at="2020-04-10T07:22:34Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="48710" started-at="2020-04-05T17:23:16Z" finished-at="2020-04-05T17:24:05Z">
+    <test name="Default test" duration-ms="29858" started-at="2020-04-10T07:22:04Z" finished-at="2020-04-10T07:22:34Z">
       <class name="com.training.sanity.tests.ChangeOrder">
-        <test-method status="PASS" signature="setUpBeforeClass()[pri:0, instance:com.training.sanity.tests.ChangeOrder@ea4a92b]" name="setUpBeforeClass" is-config="true" duration-ms="28" started-at="2020-04-05T22:53:16Z" finished-at="2020-04-05T22:53:16Z">
+        <test-method status="PASS" signature="setUpBeforeClass()[pri:0, instance:com.training.sanity.tests.ChangeOrder@ea4a92b]" name="setUpBeforeClass" is-config="true" duration-ms="10" started-at="2020-04-10T12:52:04Z" finished-at="2020-04-10T12:52:04Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpBeforeClass -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.training.sanity.tests.ChangeOrder@ea4a92b]" name="setUp" is-config="true" duration-ms="14106" started-at="2020-04-05T22:53:16Z" finished-at="2020-04-05T22:53:30Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.training.sanity.tests.ChangeOrder@ea4a92b]" name="setUp" is-config="true" duration-ms="14201" started-at="2020-04-10T12:52:04Z" finished-at="2020-04-10T12:52:18Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="validLoginTest()[pri:0, instance:com.training.sanity.tests.ChangeOrder@ea4a92b]" name="validLoginTest" duration-ms="32834" started-at="2020-04-05T22:53:30Z" finished-at="2020-04-05T22:54:03Z">
+        <test-method status="PASS" signature="ChangeOrder()[pri:1, instance:com.training.sanity.tests.ChangeOrder@ea4a92b]" name="ChangeOrder" duration-ms="13883" started-at="2020-04-10T12:52:18Z" finished-at="2020-04-10T12:52:32Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- validLoginTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.training.sanity.tests.ChangeOrder@ea4a92b]" name="tearDown" is-config="true" duration-ms="1724" started-at="2020-04-05T22:54:03Z" finished-at="2020-04-05T22:54:05Z">
+        </test-method> <!-- ChangeOrder -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.training.sanity.tests.ChangeOrder@ea4a92b]" name="tearDown" is-config="true" duration-ms="1753" started-at="2020-04-10T12:52:32Z" finished-at="2020-04-10T12:52:34Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
